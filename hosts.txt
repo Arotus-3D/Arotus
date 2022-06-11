@@ -1,0 +1,14 @@
+	#--------
+  
+  0.0.0.0 comigo-dms.ssl-analytics.xyz
+  0.0.0.0 edge1.ruplex.tv
+  0.0.0.0 edge2.ruplex.tv
+  0.0.0.0 edge3.ruplex.tv
+  0.0.0.0 edge4.ruplex.tv
+  0.0.0.0 edge5.ruplex.tv
+  0.0.0.0 edge6.ruplex.tv
+  0.0.0.0 edge7.ruplex.tv
+  0.0.0.0 edge8.ruplex.tv
+  0.0.0.0 edge9.ruplex.tv
+  0.0.0.0 api.ruplex.tv
+  0.0.0.0 cdn11.1internet.tv
