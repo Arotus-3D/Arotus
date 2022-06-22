@@ -11,3 +11,6 @@
 0.0.0.0 edge9.ruplex.tv
 0.0.0.0 api.ruplex.tv
 0.0.0.0 cdn11.1internet.tv
+0.0.0.0 api.smotrim.ru
+#--0.0.0.0 smotrim.ru
+0.0.0.0 player.smotrim.ru
